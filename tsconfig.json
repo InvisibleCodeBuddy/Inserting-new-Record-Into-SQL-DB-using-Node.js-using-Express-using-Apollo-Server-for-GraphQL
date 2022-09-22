@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true
+    },
+    "include": [
+        "*.ts",
+        "schemas/student.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
